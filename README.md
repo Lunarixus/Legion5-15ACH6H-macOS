@@ -16,6 +16,7 @@ width="600"/>
 *   [What's not Working](#whats-not-working)
 *   [SSDTs Used](#ssdts-used)
 *   [Credits](#credits)
+*   [Screenshots](#screenshots)
 
 ## Specifications
 
@@ -112,4 +113,8 @@ SSDT-XOSI.aml | Spoofs macOS as Windows to enable ACPI features.
 [Acidanthera](https://github.com/acidanthera) | Created most of the kexts.  
 [NootInc](https://github.com/NootInc) | Created most of the AMD kexts (including NootedRed).  
 [OpenIntelWireless](https://github.com/OpenIntelWireless) | Created Intel Wi-Fi + Bluetooth kexts.  
+[Lunarixus](https://github.com/Lunarixus) | Created some of the SSDT 
+patches.  
 
+## Screenshots
+![](https://raw.githubusercontent.com/Lunarixus/Legion5-15ACH6H-macOS/Ventura/Screenshots/system_info.png?token=GHSAT0AAAAAACDUIAG6CX2RJXRRLC5OX67EZEGWL6A)
